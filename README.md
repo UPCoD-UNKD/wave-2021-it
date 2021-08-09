@@ -1,3 +1,3 @@
 # wave-2021-it
-Train Git
+Train Git  
 Стороженко Анатолий Сергеевич
